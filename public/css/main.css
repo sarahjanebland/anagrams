@@ -1,0 +1,20 @@
+.results {
+  text-align: center;
+  background: pink;
+
+}
+
+.container {
+  border: 2px solid red;
+  margin: 20px auto;
+  width: 20%;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+}
+
+input[type="submit"]{
+
+  margin: 20px 0 0 0;
+
+
+}
